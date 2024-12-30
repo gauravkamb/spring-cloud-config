@@ -2,9 +2,9 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PRODUCTION APIs - cloud config from git"
+  message: "Welcome to EazyBank accounts related prod APIs - cloud config from git"
   contactDetails:
-    name: "John Doe - PROD 2nd change"
+    name: "John Doe - PROD"
     email: "{cipher}7f49d7df115d31795ce1170185c992157f12d281afb9c2cb17ecb1d1ebfde0d8dfc989319ad596cf5747df35856e570a"
   onCallSupport:
     - (555) 555-7878
