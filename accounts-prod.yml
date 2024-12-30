@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod APIs - cloud config"
+  message: "Welcome to EazyBank accounts related Prod APIs - cloud config from git"
   contactDetails:
     name: "John Doe - Prod"
     email: "john@eazybank.com"
