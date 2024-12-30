@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank Loans related PRODUCTION APIs - cloud config git config from webhooks"
+  message: "Welcome to EazyBank Loans related PRODUCTION APIs - cloud config git config from webhooks  "
   contactDetails:
     name: "Gary Konsas - PRODUCTION"
     email: "{cipher}40df6b4caf6913a268416747ebe9a379d75368ca3367e286a89f0876d37515c2"
