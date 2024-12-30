@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related UAT APIs - cloud config "
+  message: "Welcome to EazyBank cards related UAT APIs - cloud config from git"
   contactDetails:
     name: "Will Bakes - UAT"
     email: "wb@eazybank.com"
