@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to EazyBank Loans related PRODUCTION APIs - cloud config git config"
   contactDetails:
-    name: "Gary Konsas - PRODUCTION 1212131313141"
+    name: "Gary Konsas - PRODUCTION 567585585"
     email: "{cipher}40df6b4caf6913a268416747ebe9a379d75368ca3367e286a89f0876d37515c2"
   onCallSupport:
     - (555) 555-9887
