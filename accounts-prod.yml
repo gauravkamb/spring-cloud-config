@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs - cloud config from git from webhooks"
+  message: "Welcome to EazyBank accounts related prod APIs - cloud config from git from webhooks  "
   contactDetails:
     name: "John Doe - PROD"
     email: "{cipher}7f49d7df115d31795ce1170185c992157f12d281afb9c2cb17ecb1d1ebfde0d8dfc989319ad596cf5747df35856e570a"
