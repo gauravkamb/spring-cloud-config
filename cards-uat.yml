@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related UAT APIs - cloud config from git"
   contactDetails:
-    name: "Will Bakes - UAT"
+    name: "Will Bakes - UAT 2nd change"
     email: "wb@eazybank.com"
   onCallSupport:
     - (555) 555-1122
