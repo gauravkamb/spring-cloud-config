@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related UAT APIs - cloud config "
+  contactDetails:
+    name: "Will Bakes - UAT"
+    email: "wb@eazybank.com"
+  onCallSupport:
+    - (555) 555-1122
+    - (555) 523-3311

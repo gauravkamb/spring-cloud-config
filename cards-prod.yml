@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related Prod APIs - cloud config "
+  contactDetails:
+    name: "Mark Smith - Prod"
+    email: "ms@eazybank.com"
+  onCallSupport:
+    - (555) 555-4332
+    - (555) 523-1255

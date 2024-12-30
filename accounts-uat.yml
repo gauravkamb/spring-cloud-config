@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related UAT APIs -  cloud config"
+  contactDetails:
+    name: "John Doe - UAT"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - (555) 555-3434
+    - (555) 523-2322
