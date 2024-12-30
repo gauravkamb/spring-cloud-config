@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related UAT APIs -  cloud config from git"
+  message: "Welcome to EazyBank accounts related UAT APIs -  cloud config from git using webhooks"
   contactDetails:
     name: "John Doe - UAT"
     email: "john@eazybank.com"
