@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank Loans related Prod APIs - cloud config "
+  message: "Welcome to EazyBank Loans related Prod APIs - cloud config git config"
   contactDetails:
     name: "Gary Konsas - Prod"
     email: "gk@eazybank.com"
