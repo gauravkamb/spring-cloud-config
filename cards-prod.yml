@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related PRODUCTION APIs - cloud config from git 34325523"
+  message: "Welcome to EazyBank cards related PRODUCTION APIs - cloud config from git done"
   contactDetails:
     name: "Mark Smith - PRODUCTION"
     email: "{cipher}ed98beef44b097a3e56536969e49f0dff9e734c4a0ae7e63a2ae3e750cef363b"
