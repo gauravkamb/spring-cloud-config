@@ -5,7 +5,7 @@ loans:
   message: "Welcome to EazyBank Loans related Prod APIs - cloud config git config"
   contactDetails:
     name: "Gary Konsas - Prod"
-    email: "gk@eazybank.com"
+    email: "{cipher}40df6b4caf6913a268416747ebe9a379d75368ca3367e286a89f0876d37515c2"
   onCallSupport:
     - (555) 555-9887
     - (555) 523-0099
