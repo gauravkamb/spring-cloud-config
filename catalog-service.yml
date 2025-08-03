@@ -13,4 +13,4 @@ server:
       min-spare: 5
 
 polar:
-  greetings: Welcome to Polar book shop
+  greetings: Welcome to Polar book shop from config server
